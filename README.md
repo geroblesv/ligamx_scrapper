@@ -5,7 +5,7 @@ This script scrapps mediotiempo.com and saves all the mexican football league re
 ## Installation
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
