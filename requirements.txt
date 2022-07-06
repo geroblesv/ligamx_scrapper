@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2019.6.16
 chardet==3.0.4
 idna==2.8
-lxml==4.4.0
+lxml==4.9.1
 mysql-connector-python==8.0.17
 protobuf==3.9.1
 requests==2.22.0
